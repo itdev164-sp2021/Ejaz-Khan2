@@ -24,6 +24,7 @@ siteMetadata: {
     },
     `gatsby-transformer-remark`,
     `gatsby-plugin-react-helmet`,
+    'gatsby-plugin-styled-components',
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
